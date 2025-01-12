@@ -1,4 +1,4 @@
-package com.shivam.crudopertaion;
+package com.shivam.crudoperation;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.shivam.curdoperation.repositories;
+package com.shivam.crudoperation.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
